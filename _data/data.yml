@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Diego Rodríguez López # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: ichbindiego19@gmail.com
+  phone: 3121388308
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: 
+  github: DiegoSpielZeug
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,7 +33,7 @@ sidebar:
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: German
-      level: Colloquial
+      level: Basic
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -43,46 +43,32 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Patience
       link: # dejar en blanco
+    
+    - item: Critical thinking
+      link: 
+
+    - item: Empathy
+      Link: 
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+          Enthusiastic web developer eager to contribute to team success through hard work, attention to detail and excelent organizational skills. Clear understanding of React.js, Htlm5, Css, Javascript, and training in React Native. Motivated to learn. 
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Law dregree
+    university: Vizcaya de las americas
+    time: 2016 - 2019
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+  - degree: political science
+    university: Colima's university
+    time: 2015 - 2018
+    
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -122,23 +108,25 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
+    - name: Javascript
+      level: 63%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: React.js
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: React Native
+      leve: 40%
 
-    - name: Matlab
-      level: 100%
+    - name: Html5
+      level: 90%
 
-    - name: C/C++
+    - name: Css
+      level: 90%
+
+    - name: git
       level: 40%
+    
+
 
 # NO MODIFICAR
 footer: >
