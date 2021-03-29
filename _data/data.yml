@@ -9,17 +9,17 @@ sidebar:
   # Profile information
   name: Diego Rodríguez López # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  avatar: profile2.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
   email: ichbindiego19@gmail.com
   phone: 3121388308
   website: # No agregar http://
-  linkedin: 
+  linkedin:
   github: DiegoSpielZeug
   gitlab:
   bitbucket:
-  twitter: 
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -45,18 +45,18 @@ sidebar:
 
     - item: Patience
       link: # dejar en blanco
-    
+
     - item: Critical thinking
-      link: 
+      link:
 
     - item: Empathy
-      Link: 
+      Link:
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-          Enthusiastic web developer eager to contribute to team success through hard work, attention to detail and excelent organizational skills. Clear understanding of React.js, Htlm5, Css, Javascript, and training in React Native. Motivated to learn. 
+    Enthusiastic web developer eager to contribute to team success through hard work, attention to detail and excelent organizational skills. Clear understanding of React.js, Htlm5, Css, Javascript, and training in React Native. Motivated to learn.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -68,35 +68,16 @@ educationcomplete:
   - degree: political science
     university: Colima's university
     time: 2015 - 2018
-    
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Freelance
+    time: 2020
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      I started to make layouts with html and css,  and little javascript for friends,
+      because they need it a simple page for a little projects that they kept in mind, 
+      like a landing page for their business, also I helped to others friends when they have a problems
+      with the layout because they couldn't resolve it.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -109,13 +90,13 @@ skills:
 
   toolset:
     - name: Javascript
-      level: 63%
+      level: 45%
 
     - name: React.js
       level: 60%
 
     - name: React Native
-      leve: 40%
+      level: 40%
 
     - name: Html5
       level: 90%
@@ -125,8 +106,6 @@ skills:
 
     - name: git
       level: 40%
-    
-
 
 # NO MODIFICAR
 footer: >
