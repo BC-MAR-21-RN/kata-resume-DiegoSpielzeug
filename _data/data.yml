@@ -74,10 +74,16 @@ experiences:
   - role: Freelance
     time: 2020
     details: |
-      I started to make layouts with html and css,  and little javascript for friends,
-      because they need it a simple page for a little projects that they kept in mind, 
-      like a landing page for their business, also I helped to others friends when they have a problems
+     I started to do layouts with html, css and javascript for friends,
+      because they needed a page for a little projects that they had in mind, 
+      like a landing page for their business, also I helped to others friends when they had problems
       with the layout because they couldn't resolve it.
+  - role: BrightCoders
+    time: 2021
+    details: |
+      I did a course in BrightCoders, where I did individual and group mobile projects,like a restaurant app where the user could see the menu,
+      a Flight reservation in which a flight would be selected with the entails data, a citizen complaint Citizen complaint and the user could add a complaints of the place where was the incident,
+      and finally an e-commerce of fruits and vegetables where the user could add products to the cart and make the purchase order.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -90,13 +96,16 @@ skills:
 
   toolset:
     - name: Javascript
-      level: 45%
+      level: 80%
 
     - name: React.js
-      level: 60%
+      level: 75%
 
     - name: React Native
-      level: 40%
+      level: 65%
+
+    - name: Firebase
+      level: 60%
 
     - name: Html5
       level: 90%
@@ -104,8 +113,11 @@ skills:
     - name: Css
       level: 90%
 
-    - name: git
-      level: 40%
+    - name: Git
+      level: 60%
+
+    - name: Redux
+      level: 70%
 
 # NO MODIFICAR
 footer: >
