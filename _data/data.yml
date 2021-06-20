@@ -56,18 +56,19 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Enthusiastic web developer eager to contribute to team success through hard work, attention to detail and excelent organizational skills. Clear understanding of React.js, Htlm5, Css, Javascript, and training in React Native. Motivated to learn.
+    Enthusiastic web and mobile developer eager to contribute to team success through hard work, attention to detail and excelent organizational skills. Clear understanding of React.js, React Native, Htlm5, Css, Javascript.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Law dregree
-    university: Vizcaya de las americas
-    time: 2016 - 2019
-    details: |
-
   - degree: political science
     university: Colima's university
+    time: 2014 - 2018
+
+  - degree: Law dregree
+    university: Vizcaya de las Americas
     time: 2015 - 2018
+    details: |
+      I studied at the same time the both careers one in the week and other in the weekends
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -75,14 +76,15 @@ experiences:
     time: 2020
     details: |
      I started to do layouts with html, css and javascript for friends,
-      because they needed a page for a little projects that they had in mind, 
+      because they needed a page for projects that they had in mind, 
       like a landing page for their business, also I helped to others friends when they had problems
       with the layout because they couldn't resolve it.
+
   - role: BrightCoders
     time: 2021
     details: |
       I did a course in BrightCoders, where I did individual and group mobile projects,like a restaurant app where the user could see the menu,
-      a Flight reservation in which a flight would be selected with the entails data, a citizen complaint Citizen complaint and the user could add a complaints of the place where was the incident,
+      a Flight reservation in which a flight would be selected with the entails data, a citizen complaint and the user could add a complaints of the place where was the incident,
       and finally an e-commerce of fruits and vegetables where the user could add products to the cart and make the purchase order.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
