@@ -60,7 +60,7 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: political science
+  - degree: Political science
     university: Colima's university
     time: 2014 - 2018
 
@@ -73,7 +73,7 @@ educationcomplete:
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Freelance
-    time: 2020
+    time: 01/10/2018 to 27/03/2021
     details: |
      I started to do layouts with html, css and javascript for friends,
       because they needed a page for projects that they had in mind, 
@@ -81,7 +81,7 @@ experiences:
       with the layout because they couldn't resolve it.
 
   - role: BrightCoders
-    time: 2021
+    time: 27/03/2021 until the present
     details: |
       I did a course in BrightCoders, where I did individual and group mobile projects,like a restaurant app where the user could see the menu,
       a Flight reservation in which a flight would be selected with the entails data, a citizen complaint and the user could add a complaints of the place where was the incident,
