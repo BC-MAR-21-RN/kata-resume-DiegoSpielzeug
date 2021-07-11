@@ -74,7 +74,7 @@ educationcomplete:
       and finally an e-commerce of fruits and vegetables where the user could add products to the cart and make the purchase order.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
-My Proyects:
+experiences:
   - role: Freelance
     time: 01/10/2018 to 27/03/2021
     details: |
@@ -82,6 +82,7 @@ My Proyects:
       because they needed a page for projects that they had in mind, 
       like a landing page for their business.
       
+      You can see all my proyects on my GitHub!
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
